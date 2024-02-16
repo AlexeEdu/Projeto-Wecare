@@ -1,0 +1,141 @@
+*{
+    font-family: 'Montserrat Alternates', sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header {
+    margin: 44px 0 144px 76px;
+}
+
+.link-header {
+    font-weight: 600;
+    line-height: normal;    
+    font-size: 24px;
+    color: #989D9C;
+    cursor: pointer;
+    margin-right: 23px;
+}
+
+.button-header {
+    background: #665ae1;
+    border-radius: 20.5px;
+    width: 130px;
+    height: 41px;
+    border: none;
+    font-size: 24px;
+    font-weight: 600;
+    line-height: 29px;
+    color: #ffffff;
+    cursor: pointer;
+}
+
+.logo-image {
+    Width: 568px;
+    height: 500px;
+    margin-left: 125px;
+    display: inline-block;
+}
+
+section {
+    display: inline-block;
+    margin-left: 86px;
+}
+
+h1 {
+    color: #515151;
+    font-size: 100px;
+    font-weight: 900;
+    line-height: 122px;
+}
+
+h2 {
+    font-weight: 500;
+    line-height: 71px;
+    font-size: 58px;
+    color: #515151;
+}
+
+p {
+    color: #848484;
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 29px;
+    width: 515px;
+    margin-top: 32px;
+    margin-bottom: 65px;
+}
+
+.button-main {
+    width: 239px;
+    height: 64px;
+    border-radius: 30px;
+    background: #ADFF00;
+    border: none;
+    cursor: pointer;
+    filter: drop-shadow(0px 4px 4px rgba(0,0,0,0.25));
+    font-weight: 700;
+    line-height: 34px;
+    font-size: 28px;
+    color: #000000;
+}
+
+@media screen and (max-width: 768px) {
+    .logo-image {
+    width: 100%;
+    height: 50%;
+    margin-top: 150px;
+    margin-left: 0px;
+    margin-bottom: 0px;
+    margin-right: 0px;
+    padding: 20px;
+
+}
+
+section {
+    display: block;
+    height: auto;
+    width: 80%;
+    margin: auto;
+
+    
+}
+
+header {
+    display: none;
+}
+
+h1 {
+    font-size: 2.5em;
+    line-height: 1.2;
+    width: auto;
+    text-align: center;
+    margin: -10px 20px;
+}
+
+h2 {
+    font-size: 1.75em;
+    line-height: 37px;
+    width: auto;
+    text-align: center;
+    margin: 0px 20px 15px 20px ;
+}
+
+p {
+    display: none;
+    font-size: 1em;
+    margin-top: 1em;
+    margin-bottom: 1.5em;
+}
+
+.button-main {
+    font-size: 28px;
+    line-height: 35Px;
+    margin: 0 auto;
+    display: block;
+    
+}
+
+    
+}
