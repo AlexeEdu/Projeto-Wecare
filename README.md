@@ -3,7 +3,7 @@
 
 <h3>Gostaria de compartilhar mais um projeto, seguindo a orientação do Professor Rodolfo Mori no <a href="https://rodolfomori.com.br/devclub">DevClub</a></h3>
 
-<P>Alem de Usar as tecnologias HTML e CSS tambem foi feito na responsividade para o uso em várias telas</P>
+<P>Além de usar as tecnologias HTML e CSS também foi feito na responsividade para o uso em várias telas, melhorando a navegação</P>
 
 
 <p>Tecnologias utilizadas:</p>
@@ -14,4 +14,4 @@
 
  
 
-  <p>:heavy_check_mark: Netlify: <a href=>Grillcellphone</a></p>
+  <p>:heavy_check_mark: Netlify: <a href="https://github.com/AlexeEdu/Projeto-Wecare/blob/master/img/imagemWecare.png?raw=true">WEcare</a></p>
